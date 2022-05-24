@@ -6,6 +6,8 @@ My understanding of this list is that this list will always grow as we live our 
 ## CAREER
 - Study 4 hours a week for improvement - 1 month
 - Study 4 hours a week for improvement - 6 months
+- ~~GCP Professional Development certification~~ (08/2021)
+- GCP Architect certification
 
 ## FITNESS
 - Exercise 5 times a week for 6 months
