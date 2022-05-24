@@ -6,7 +6,7 @@ My understanding of this list is that this list will always grow as we live our 
 ## CAREER
 - Study 5 hours a week for improvement - 1 month
 - Study 5 hours a week for improvement - 6 months
-- ~~Participate on a Game Jam and create a Game~~ (2017) - [game-where-am-i](https://github.com/k30v1n/game-where-am-i)
+- ~~Participate on a Game Jam and create a Game~~ (12/2017) - [game-where-am-i](https://github.com/k30v1n/game-where-am-i)
 - ~~GCP Professional Development certification~~ (08/2021)
 - GCP Architect certification
 
