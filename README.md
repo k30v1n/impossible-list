@@ -4,7 +4,8 @@ My impossible list based on [Joel Runyon](https://impossiblehq.com/impossible-li
 My understanding of this list is that this list will always grow as we live our life, as a way to pursue challenges and achieve the unimaginable for me.
 
 ## CAREER
-- Study 4 hours a week for improvement
+- Study 4 hours a week for improvement - 1 month
+- Study 4 hours a week for improvement - 6 months
 
 ## FITNESS
 - Exercise 5 times a week for 6 months
@@ -24,8 +25,9 @@ My understanding of this list is that this list will always grow as we live our 
 ## LANGUAGES
 - ~~Fluent in English~~ (07/2018)
 - Fluent in French
+- Fluent in Korean
 - Fluent in Spanish
-- Fluent in one Asian language
+- Fluent in Mandarin
 
 ## LIFE
 - ~~Move to another Country~~ (11/2021)
@@ -40,8 +42,12 @@ My understanding of this list is that this list will always grow as we live our 
 
 ## TRAVEL
 - ~~Visit Canada~~ (2018)
-- Visit USA
+- Visit NY, USA
+- Visit Disney in USA
 - Visit France and speak French
 - Visit Spain and speak Spanish
 - Visit the Coliseum, Rome, Italy
 - Visit Athens, Greece
+- Visit China Great Wall, China and Speak Mandarin
+- Visit South Korea and Speak Korean
+- Visit Tokyo, Japan
