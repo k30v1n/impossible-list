@@ -41,11 +41,10 @@ My understanding of this list is that this list will always grow as we live our 
 - Read 20 books a year for 2 years
 
 ## TRAVEL
-- ~~Visit Canada~~ (2018)
-- Visit NY, USA
-- Visit Disney in USA
-- Visit France and speak French
-- Visit Spain and speak Spanish
+- Visit several Canada places ~~Toronto~~ (2018), Vancouver, Banf Saskatchan
+- Visit several USA places: New York, Disney
+- Visit Paris, France and speak French
+- Visit Barcelona and Madrid in Spain and speak Spanish
 - Visit the Coliseum, Rome, Italy
 - Visit Athens, Greece
 - Visit China Great Wall, China and Speak Mandarin
