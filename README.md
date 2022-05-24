@@ -4,8 +4,8 @@ My impossible list based on [Joel Runyon](https://impossiblehq.com/impossible-li
 My understanding of this list is that this list will always grow as we live our life, as a way to pursue challenges and achieve the unimaginable for me.
 
 ## CAREER
-- Study 4 hours a week for improvement - 1 month
-- Study 4 hours a week for improvement - 6 months
+- Study 5 hours a week for improvement - 1 month
+- Study 5 hours a week for improvement - 6 months
 - ~~GCP Professional Development certification~~ (08/2021)
 - GCP Architect certification
 
