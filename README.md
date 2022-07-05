@@ -53,3 +53,6 @@ My understanding of this list is that this list will always grow as we live our 
 - Visit China Great Wall, China and Speak Mandarin
 - Visit South Korea and Speak Korean
 - Visit Tokyo, Japan
+
+## Others
+- Improve typing speed to 70 WPM
