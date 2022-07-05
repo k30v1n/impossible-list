@@ -11,7 +11,7 @@ My understanding of this list is that this list will always grow as we live our 
 - GCP Architect certification
 
 ## FITNESS
-- Exercise 5 times a week for 6 months
+- Exercise 5 times a week for 6 months - Started June 2022 - IN PROGRESS
 - Run 5km
 - Run 10km
 - Run 5km weekly for 6 months
